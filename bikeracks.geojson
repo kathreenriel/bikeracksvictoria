@@ -1,0 +1,6101 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362331408002,48.4235785651631 ]
+    },
+    "properties": {
+    "OBJECTID":1,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360250264049,48.4231558536161 ]
+    },
+    "properties": {
+    "OBJECTID":2,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360447692107,48.4231832540317 ]
+    },
+    "properties": {
+    "OBJECTID":3,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360585233971,48.4231889214475 ]
+    },
+    "properties": {
+    "OBJECTID":4,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362016797518,48.4220197618086 ]
+    },
+    "properties": {
+    "OBJECTID":5,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37124074362,48.4294609916809 ]
+    },
+    "properties": {
+    "OBJECTID":6,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371167251253,48.4294167766088 ]
+    },
+    "properties": {
+    "OBJECTID":7,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371227077287,48.429446969451 ]
+    },
+    "properties": {
+    "OBJECTID":8,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37119587928,48.429428705872 ]
+    },
+    "properties": {
+    "OBJECTID":9,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.370086057863,48.429658826035 ]
+    },
+    "properties": {
+    "OBJECTID":10,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369337666881,48.4302467395847 ]
+    },
+    "properties": {
+    "OBJECTID":11,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369429226643,48.4302464459267 ]
+    },
+    "properties": {
+    "OBJECTID":12,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368526828597,48.4292857846364 ]
+    },
+    "properties": {
+    "OBJECTID":13,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369116042232,48.4292793832531 ]
+    },
+    "properties": {
+    "OBJECTID":14,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369384017887,48.4292814686641 ]
+    },
+    "properties": {
+    "OBJECTID":15,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369505977941,48.4292159881516 ]
+    },
+    "properties": {
+    "OBJECTID":16,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369481057943,48.4287784855342 ]
+    },
+    "properties": {
+    "OBJECTID":17,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369131754339,48.4285772328005 ]
+    },
+    "properties": {
+    "OBJECTID":18,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369197704389,48.4284316822952 ]
+    },
+    "properties": {
+    "OBJECTID":19,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369087566252,48.4284336403831 ]
+    },
+    "properties": {
+    "OBJECTID":20,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368656019217,48.4284382931381 ]
+    },
+    "properties": {
+    "OBJECTID":21,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356329141364,48.4235678734476 ]
+    },
+    "properties": {
+    "OBJECTID":22,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356442010548,48.4237403725054 ]
+    },
+    "properties": {
+    "OBJECTID":23,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356943075465,48.4244833006768 ]
+    },
+    "properties": {
+    "OBJECTID":24,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356960649208,48.4246047385458 ]
+    },
+    "properties": {
+    "OBJECTID":25,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35770159319,48.4246879898331 ]
+    },
+    "properties": {
+    "OBJECTID":26,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358624535159,48.4247813292013 ]
+    },
+    "properties": {
+    "OBJECTID":27,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358784149819,48.424797661154 ]
+    },
+    "properties": {
+    "OBJECTID":28,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359303755314,48.4248629832684 ]
+    },
+    "properties": {
+    "OBJECTID":29,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.355930903829,48.423520949269 ]
+    },
+    "properties": {
+    "OBJECTID":30,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.355762953905,48.4235039439091 ]
+    },
+    "properties": {
+    "OBJECTID":31,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35549180684,48.4234714113038 ]
+    },
+    "properties": {
+    "OBJECTID":32,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354977304606,48.4234176904289 ]
+    },
+    "properties": {
+    "OBJECTID":33,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354860424105,48.4234065314971 ]
+    },
+    "properties": {
+    "OBJECTID":34,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354345535492,48.4233475918517 ]
+    },
+    "properties": {
+    "OBJECTID":35,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354310395497,48.4233461156922 ]
+    },
+    "properties": {
+    "OBJECTID":36,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.353843728567,48.4232914127248 ]
+    },
+    "properties": {
+    "OBJECTID":37,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.352794892387,48.4231787445966 ]
+    },
+    "properties": {
+    "OBJECTID":38,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35275726391,48.4231746909408 ]
+    },
+    "properties": {
+    "OBJECTID":39,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3533872066,48.4234091917539 ]
+    },
+    "properties": {
+    "OBJECTID":40,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.353787944909,48.4234447716738 ]
+    },
+    "properties": {
+    "OBJECTID":41,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354248569351,48.4235054310907 ]
+    },
+    "properties": {
+    "OBJECTID":42,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35426753262,48.4235035905229 ]
+    },
+    "properties": {
+    "OBJECTID":43,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354367223082,48.4235138322322 ]
+    },
+    "properties": {
+    "OBJECTID":44,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354383541674,48.4235171233355 ]
+    },
+    "properties": {
+    "OBJECTID":45,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354999506565,48.4235860621576 ]
+    },
+    "properties": {
+    "OBJECTID":46,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.355461476198,48.4236399361031 ]
+    },
+    "properties": {
+    "OBJECTID":47,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.355424717808,48.423632809138 ]
+    },
+    "properties": {
+    "OBJECTID":48,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.355680757438,48.4236571180088 ]
+    },
+    "properties": {
+    "OBJECTID":49,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356015005471,48.4236936735457 ]
+    },
+    "properties": {
+    "OBJECTID":50,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35949396336,48.4240725994155 ]
+    },
+    "properties": {
+    "OBJECTID":51,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358120963246,48.4239256926821 ]
+    },
+    "properties": {
+    "OBJECTID":52,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.357463413083,48.4238535827878 ]
+    },
+    "properties": {
+    "OBJECTID":53,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.357604025786,48.4236972284212 ]
+    },
+    "properties": {
+    "OBJECTID":54,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358076236351,48.4237256438015 ]
+    },
+    "properties": {
+    "OBJECTID":55,
+    "STYLE":"PRIVATE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358168479872,48.4237510177903 ]
+    },
+    "properties": {
+    "OBJECTID":56,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358608108103,48.4238057433664 ]
+    },
+    "properties": {
+    "OBJECTID":57,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358940956342,48.4238466693922 ]
+    },
+    "properties": {
+    "OBJECTID":58,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359559944834,48.4239099991812 ]
+    },
+    "properties": {
+    "OBJECTID":59,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359964006142,48.4224928863832 ]
+    },
+    "properties": {
+    "OBJECTID":60,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359894969732,48.4236981382462 ]
+    },
+    "properties": {
+    "OBJECTID":61,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365764067988,48.4280409229018 ]
+    },
+    "properties": {
+    "OBJECTID":62,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365849696393,48.4277603025253 ]
+    },
+    "properties": {
+    "OBJECTID":63,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366012552943,48.4276802230724 ]
+    },
+    "properties": {
+    "OBJECTID":64,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366168799168,48.4274258261264 ]
+    },
+    "properties": {
+    "OBJECTID":65,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36614972875,48.4274191087321 ]
+    },
+    "properties": {
+    "OBJECTID":66,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366717135232,48.4274908910117 ]
+    },
+    "properties": {
+    "OBJECTID":67,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366771137931,48.4274966665934 ]
+    },
+    "properties": {
+    "OBJECTID":68,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36700886542,48.4275055676147 ]
+    },
+    "properties": {
+    "OBJECTID":69,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367030711925,48.4275067790719 ]
+    },
+    "properties": {
+    "OBJECTID":70,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367050633943,48.4275084248985 ]
+    },
+    "properties": {
+    "OBJECTID":71,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367567638942,48.427583601485 ]
+    },
+    "properties": {
+    "OBJECTID":72,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367601827659,48.4275873185586 ]
+    },
+    "properties": {
+    "OBJECTID":73,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367811384698,48.4276135894411 ]
+    },
+    "properties": {
+    "OBJECTID":74,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368492718511,48.4276737550071 ]
+    },
+    "properties": {
+    "OBJECTID":76,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368771367132,48.4275903414733 ]
+    },
+    "properties": {
+    "OBJECTID":78,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368198322906,48.4275213897732 ]
+    },
+    "properties": {
+    "OBJECTID":79,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368073402068,48.4275047389516 ]
+    },
+    "properties": {
+    "OBJECTID":80,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367757642992,48.4274704698757 ]
+    },
+    "properties": {
+    "OBJECTID":81,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365789088866,48.427250511763 ]
+    },
+    "properties": {
+    "OBJECTID":82,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363118081441,48.426968723966 ]
+    },
+    "properties": {
+    "OBJECTID":83,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363086970231,48.4270768132444 ]
+    },
+    "properties": {
+    "OBJECTID":84,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363966803288,48.427188872216 ]
+    },
+    "properties": {
+    "OBJECTID":85,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364666946157,48.4278933940265 ]
+    },
+    "properties": {
+    "OBJECTID":86,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364670627572,48.4278792973431 ]
+    },
+    "properties": {
+    "OBJECTID":87,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364814575307,48.4273345841486 ]
+    },
+    "properties": {
+    "OBJECTID":88,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36488746752,48.4270505672384 ]
+    },
+    "properties": {
+    "OBJECTID":89,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364866091372,48.4270693451224 ]
+    },
+    "properties": {
+    "OBJECTID":90,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364709866644,48.4264462263901 ]
+    },
+    "properties": {
+    "OBJECTID":91,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364705498872,48.4264573311936 ]
+    },
+    "properties": {
+    "OBJECTID":92,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36461932598,48.4268347456738 ]
+    },
+    "properties": {
+    "OBJECTID":93,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364612414682,48.4268487590188 ]
+    },
+    "properties": {
+    "OBJECTID":94,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364573290878,48.4270156145011 ]
+    },
+    "properties": {
+    "OBJECTID":95,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364562871793,48.4270296380454 ]
+    },
+    "properties": {
+    "OBJECTID":96,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36449354042,48.4272965616802 ]
+    },
+    "properties": {
+    "OBJECTID":97,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364489276032,48.4273045614295 ]
+    },
+    "properties": {
+    "OBJECTID":98,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364471589862,48.427385885207 ]
+    },
+    "properties": {
+    "OBJECTID":99,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364310216652,48.4281838173769 ]
+    },
+    "properties": {
+    "OBJECTID":100,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364304633429,48.4281932274519 ]
+    },
+    "properties": {
+    "OBJECTID":101,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36464574105,48.4261949590586 ]
+    },
+    "properties": {
+    "OBJECTID":102,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364644652708,48.4261888871194 ]
+    },
+    "properties": {
+    "OBJECTID":103,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364643294887,48.4261814251634 ]
+    },
+    "properties": {
+    "OBJECTID":104,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363611234113,48.4260770359316 ]
+    },
+    "properties": {
+    "OBJECTID":105,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363607533906,48.4260663551893 ]
+    },
+    "properties": {
+    "OBJECTID":106,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363609343006,48.4260719165557 ]
+    },
+    "properties": {
+    "OBJECTID":107,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363585576538,48.4260792716083 ]
+    },
+    "properties": {
+    "OBJECTID":108,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363582468573,48.4260722155132 ]
+    },
+    "properties": {
+    "OBJECTID":109,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363587698694,48.4260862723376 ]
+    },
+    "properties": {
+    "OBJECTID":110,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362450291389,48.4261369003002 ]
+    },
+    "properties": {
+    "OBJECTID":111,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36389193183,48.4262991348236 ]
+    },
+    "properties": {
+    "OBJECTID":114,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363899899156,48.4263038895292 ]
+    },
+    "properties": {
+    "OBJECTID":115,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363908158292,48.4263086208208 ]
+    },
+    "properties": {
+    "OBJECTID":116,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366026792065,48.4264889749557 ]
+    },
+    "properties": {
+    "OBJECTID":117,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366005206083,48.4264891731029 ]
+    },
+    "properties": {
+    "OBJECTID":118,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36452064074,48.4263560329191 ]
+    },
+    "properties": {
+    "OBJECTID":119,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364552726848,48.4263569452803 ]
+    },
+    "properties": {
+    "OBJECTID":120,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36637381476,48.4265304407098 ]
+    },
+    "properties": {
+    "OBJECTID":121,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367236430854,48.4266137676258 ]
+    },
+    "properties": {
+    "OBJECTID":122,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367218236101,48.4266161558006 ]
+    },
+    "properties": {
+    "OBJECTID":123,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362559841052,48.4277447908921 ]
+    },
+    "properties": {
+    "OBJECTID":124,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362614416298,48.4277428593714 ]
+    },
+    "properties": {
+    "OBJECTID":125,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363519492833,48.4278451134853 ]
+    },
+    "properties": {
+    "OBJECTID":126,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363593600766,48.4253382869092 ]
+    },
+    "properties": {
+    "OBJECTID":127,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363616147557,48.4253420995472 ]
+    },
+    "properties": {
+    "OBJECTID":128,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364018281608,48.4253835233697 ]
+    },
+    "properties": {
+    "OBJECTID":129,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364166010583,48.4253969254693 ]
+    },
+    "properties": {
+    "OBJECTID":130,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364412606306,48.425425353756 ]
+    },
+    "properties": {
+    "OBJECTID":131,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364858460514,48.4254594354541 ]
+    },
+    "properties": {
+    "OBJECTID":132,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364920899056,48.4253665504384 ]
+    },
+    "properties": {
+    "OBJECTID":133,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3646934224,48.4253088994097 ]
+    },
+    "properties": {
+    "OBJECTID":134,
+    "STYLE":"4 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364634073562,48.425302416366 ]
+    },
+    "properties": {
+    "OBJECTID":135,
+    "STYLE":"16 OVALS",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364576983703,48.4253144851714 ]
+    },
+    "properties": {
+    "OBJECTID":136,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365030033531,48.4252236349905 ]
+    },
+    "properties": {
+    "OBJECTID":137,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365026713478,48.425233225065 ]
+    },
+    "properties": {
+    "OBJECTID":138,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365331268531,48.4252559275771 ]
+    },
+    "properties": {
+    "OBJECTID":139,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365324563902,48.4252660915823 ]
+    },
+    "properties": {
+    "OBJECTID":140,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365486934787,48.4255281027556 ]
+    },
+    "properties": {
+    "OBJECTID":141,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365512373521,48.425531402938 ]
+    },
+    "properties": {
+    "OBJECTID":142,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366078910241,48.4263665152935 ]
+    },
+    "properties": {
+    "OBJECTID":143,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36605556704,48.4263653956398 ]
+    },
+    "properties": {
+    "OBJECTID":144,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365257394908,48.4255969323115 ]
+    },
+    "properties": {
+    "OBJECTID":145,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365253354931,48.4256069727047 ]
+    },
+    "properties": {
+    "OBJECTID":146,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364916149949,48.4256551071789 ]
+    },
+    "properties": {
+    "OBJECTID":147,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36490940331,48.4256815101052 ]
+    },
+    "properties": {
+    "OBJECTID":148,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364851636914,48.4259723993643 ]
+    },
+    "properties": {
+    "OBJECTID":149,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364844888846,48.4259988022893 ]
+    },
+    "properties": {
+    "OBJECTID":150,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366310302112,48.4263389203338 ]
+    },
+    "properties": {
+    "OBJECTID":151,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366282662682,48.4263343606051 ]
+    },
+    "properties": {
+    "OBJECTID":152,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366317089604,48.4263199834495 ]
+    },
+    "properties": {
+    "OBJECTID":153,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366282027007,48.4263187031899 ]
+    },
+    "properties": {
+    "OBJECTID":154,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366434923056,48.4257099350423 ]
+    },
+    "properties": {
+    "OBJECTID":155,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366434791894,48.4256916958029 ]
+    },
+    "properties": {
+    "OBJECTID":156,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36672153406,48.4256638849903 ]
+    },
+    "properties": {
+    "OBJECTID":157,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367146819271,48.4257083121542 ]
+    },
+    "properties": {
+    "OBJECTID":158,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367511214698,48.4259949565767 ]
+    },
+    "properties": {
+    "OBJECTID":159,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367515569847,48.4260024377186 ]
+    },
+    "properties": {
+    "OBJECTID":160,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367518403981,48.4260104347247 ]
+    },
+    "properties": {
+    "OBJECTID":161,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367432637391,48.4263529799982 ]
+    },
+    "properties": {
+    "OBJECTID":162,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367429401211,48.4263598943081 ]
+    },
+    "properties": {
+    "OBJECTID":163,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367427056656,48.4263689856426 ]
+    },
+    "properties": {
+    "OBJECTID":164,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367161816359,48.4273245842282 ]
+    },
+    "properties": {
+    "OBJECTID":165,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367422378057,48.4272073406471 ]
+    },
+    "properties": {
+    "OBJECTID":166,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367511632798,48.4268444125105 ]
+    },
+    "properties": {
+    "OBJECTID":167,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367507991167,48.4268359781488 ]
+    },
+    "properties": {
+    "OBJECTID":168,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367500210377,48.4268273401869 ]
+    },
+    "properties": {
+    "OBJECTID":169,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367951340718,48.426746202485 ]
+    },
+    "properties": {
+    "OBJECTID":170,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367947162048,48.4267575542416 ]
+    },
+    "properties": {
+    "OBJECTID":171,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368473983685,48.4268061443287 ]
+    },
+    "properties": {
+    "OBJECTID":172,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369035679,48.4268760105382 ]
+    },
+    "properties": {
+    "OBJECTID":173,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367331042257,48.4265163709758 ]
+    },
+    "properties": {
+    "OBJECTID":174,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367041896763,48.4264749224036 ]
+    },
+    "properties": {
+    "OBJECTID":175,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366390489184,48.4264060757081 ]
+    },
+    "properties": {
+    "OBJECTID":176,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367648022568,48.4261981877701 ]
+    },
+    "properties": {
+    "OBJECTID":177,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367650758981,48.4261905823117 ]
+    },
+    "properties": {
+    "OBJECTID":178,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367649107197,48.4261829081057 ]
+    },
+    "properties": {
+    "OBJECTID":179,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367706013457,48.4259704077786 ]
+    },
+    "properties": {
+    "OBJECTID":180,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367706949778,48.4259602395455 ]
+    },
+    "properties": {
+    "OBJECTID":181,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367707905627,48.4259499677893 ]
+    },
+    "properties": {
+    "OBJECTID":182,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367839057987,48.4253871152919 ]
+    },
+    "properties": {
+    "OBJECTID":183,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367836018271,48.4253965084513 ]
+    },
+    "properties": {
+    "OBJECTID":184,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36783271997,48.4254054706013 ]
+    },
+    "properties": {
+    "OBJECTID":185,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368600227939,48.4254376067122 ]
+    },
+    "properties": {
+    "OBJECTID":186,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368978113882,48.4258433922951 ]
+    },
+    "properties": {
+    "OBJECTID":187,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368554637383,48.4258899835926 ]
+    },
+    "properties": {
+    "OBJECTID":188,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368554688227,48.4258970070692 ]
+    },
+    "properties": {
+    "OBJECTID":189,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368555291474,48.4259043418576 ]
+    },
+    "properties": {
+    "OBJECTID":190,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366269266493,48.4265864827061 ]
+    },
+    "properties": {
+    "OBJECTID":191,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36620681404,48.4267858186405 ]
+    },
+    "properties": {
+    "OBJECTID":192,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366199571968,48.4268013301664 ]
+    },
+    "properties": {
+    "OBJECTID":193,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366172202462,48.4269566332554 ]
+    },
+    "properties": {
+    "OBJECTID":194,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366158839942,48.4269394634922 ]
+    },
+    "properties": {
+    "OBJECTID":195,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366078721706,48.4272550714169 ]
+    },
+    "properties": {
+    "OBJECTID":196,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367214138736,48.4281145498163 ]
+    },
+    "properties": {
+    "OBJECTID":197,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367217642961,48.428121730503 ]
+    },
+    "properties": {
+    "OBJECTID":198,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367219028723,48.4281292562178 ]
+    },
+    "properties": {
+    "OBJECTID":199,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368812082836,48.4277269664206 ]
+    },
+    "properties": {
+    "OBJECTID":200,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368895894704,48.4277350701059 ]
+    },
+    "properties": {
+    "OBJECTID":201,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369137759612,48.4277623182926 ]
+    },
+    "properties": {
+    "OBJECTID":202,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369011914023,48.4276152819852 ]
+    },
+    "properties": {
+    "OBJECTID":203,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369137231292,48.4276294663781 ]
+    },
+    "properties": {
+    "OBJECTID":204,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368887685622,48.4268646139843 ]
+    },
+    "properties": {
+    "OBJECTID":205,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368878674616,48.4268606600747 ]
+    },
+    "properties": {
+    "OBJECTID":206,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368865933791,48.426858709065 ]
+    },
+    "properties": {
+    "OBJECTID":207,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36904515987,48.4267216093636 ]
+    },
+    "properties": {
+    "OBJECTID":208,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369233765297,48.4257772964053 ]
+    },
+    "properties": {
+    "OBJECTID":209,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369177822754,48.42577274372 ]
+    },
+    "properties": {
+    "OBJECTID":210,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369065171018,48.4259936432183 ]
+    },
+    "properties": {
+    "OBJECTID":211,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369439649354,48.4251216001795 ]
+    },
+    "properties": {
+    "OBJECTID":212,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368989067197,48.4250740878844 ]
+    },
+    "properties": {
+    "OBJECTID":213,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369140977453,48.4250894443797 ]
+    },
+    "properties": {
+    "OBJECTID":214,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369296061893,48.4251070783235 ]
+    },
+    "properties": {
+    "OBJECTID":215,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368796591633,48.4246231936922 ]
+    },
+    "properties": {
+    "OBJECTID":216,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369673330354,48.4249445883481 ]
+    },
+    "properties": {
+    "OBJECTID":217,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369490059674,48.4239534268853 ]
+    },
+    "properties": {
+    "OBJECTID":218,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365449713983,48.424811344698 ]
+    },
+    "properties": {
+    "OBJECTID":219,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365451885573,48.424799389435 ]
+    },
+    "properties": {
+    "OBJECTID":220,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365603997732,48.4245832988001 ]
+    },
+    "properties": {
+    "OBJECTID":221,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366143692275,48.4246553795305 ]
+    },
+    "properties": {
+    "OBJECTID":222,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366450672971,48.4247934167152 ]
+    },
+    "properties": {
+    "OBJECTID":223,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366763290656,48.4248223591736 ]
+    },
+    "properties": {
+    "OBJECTID":224,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368036875428,48.4248378528931 ]
+    },
+    "properties": {
+    "OBJECTID":225,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368054282964,48.4248442936247 ]
+    },
+    "properties": {
+    "OBJECTID":226,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368088830762,48.4249646768753 ]
+    },
+    "properties": {
+    "OBJECTID":227,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368006569102,48.4246698722519 ]
+    },
+    "properties": {
+    "OBJECTID":228,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368002040189,48.4246753809464 ]
+    },
+    "properties": {
+    "OBJECTID":229,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367999170001,48.424682791609 ]
+    },
+    "properties": {
+    "OBJECTID":230,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36803873807,48.4245268776673 ]
+    },
+    "properties": {
+    "OBJECTID":231,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368039168767,48.4245191338382 ]
+    },
+    "properties": {
+    "OBJECTID":232,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368037879417,48.4245092318348 ]
+    },
+    "properties": {
+    "OBJECTID":233,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368055117214,48.4244431247527 ]
+    },
+    "properties": {
+    "OBJECTID":234,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368140633169,48.424140196604 ]
+    },
+    "properties": {
+    "OBJECTID":235,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368140873362,48.4241313432085 ]
+    },
+    "properties": {
+    "OBJECTID":236,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36814154704,48.4241233700904 ]
+    },
+    "properties": {
+    "OBJECTID":237,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368211074663,48.4238492632573 ]
+    },
+    "properties": {
+    "OBJECTID":238,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36821219534,48.4238279485942 ]
+    },
+    "properties": {
+    "OBJECTID":239,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368211305716,48.4238397072597 ]
+    },
+    "properties": {
+    "OBJECTID":240,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367967440385,48.4235691457849 ]
+    },
+    "properties": {
+    "OBJECTID":241,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367942062263,48.4235634195972 ]
+    },
+    "properties": {
+    "OBJECTID":242,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368025264491,48.4234716342153 ]
+    },
+    "properties": {
+    "OBJECTID":243,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367999886406,48.4234659080353 ]
+    },
+    "properties": {
+    "OBJECTID":244,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3688718355,48.4229419284696 ]
+    },
+    "properties": {
+    "OBJECTID":245,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368957961634,48.4229261668568 ]
+    },
+    "properties": {
+    "OBJECTID":246,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368176969608,48.4229645333124 ]
+    },
+    "properties": {
+    "OBJECTID":247,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367443682389,48.4235799122203 ]
+    },
+    "properties": {
+    "OBJECTID":248,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367180846169,48.4235084496111 ]
+    },
+    "properties": {
+    "OBJECTID":249,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367209295163,48.4237347761162 ]
+    },
+    "properties": {
+    "OBJECTID":250,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367168258978,48.4238846975676 ]
+    },
+    "properties": {
+    "OBJECTID":251,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367163102869,48.4238902055338 ]
+    },
+    "properties": {
+    "OBJECTID":252,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367789712057,48.424255847707 ]
+    },
+    "properties": {
+    "OBJECTID":253,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36702431846,48.4247397944026 ]
+    },
+    "properties": {
+    "OBJECTID":254,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366058351646,48.4233928291199 ]
+    },
+    "properties": {
+    "OBJECTID":255,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365563227676,48.4243833854156 ]
+    },
+    "properties": {
+    "OBJECTID":256,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365566036183,48.4243727929083 ]
+    },
+    "properties": {
+    "OBJECTID":257,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365617924414,48.4241905830091 ]
+    },
+    "properties": {
+    "OBJECTID":258,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365788002933,48.423526349617 ]
+    },
+    "properties": {
+    "OBJECTID":259,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365793149514,48.4235095141283 ]
+    },
+    "properties": {
+    "OBJECTID":260,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366570544474,48.423306246072 ]
+    },
+    "properties": {
+    "OBJECTID":261,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366540265464,48.4233048688501 ]
+    },
+    "properties": {
+    "OBJECTID":262,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365535919507,48.4245035928023 ]
+    },
+    "properties": {
+    "OBJECTID":263,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365538728026,48.4244930002965 ]
+    },
+    "properties": {
+    "OBJECTID":264,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366452879019,48.4241217730421 ]
+    },
+    "properties": {
+    "OBJECTID":265,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366413650102,48.4245895258405 ]
+    },
+    "properties": {
+    "OBJECTID":266,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366405208814,48.4246009981733 ]
+    },
+    "properties": {
+    "OBJECTID":267,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366927159893,48.4240359533192 ]
+    },
+    "properties": {
+    "OBJECTID":268,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365893471977,48.4230843751063 ]
+    },
+    "properties": {
+    "OBJECTID":269,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366069186155,48.4224615153449 ]
+    },
+    "properties": {
+    "OBJECTID":270,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366082438412,48.4224243766094 ]
+    },
+    "properties": {
+    "OBJECTID":271,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366078554894,48.4224301719777 ]
+    },
+    "properties": {
+    "OBJECTID":272,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366680273397,48.4224963624009 ]
+    },
+    "properties": {
+    "OBJECTID":273,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366191603758,48.4219764402879 ]
+    },
+    "properties": {
+    "OBJECTID":274,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36542440628,48.4217975791122 ]
+    },
+    "properties": {
+    "OBJECTID":275,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365414532819,48.4217896808719 ]
+    },
+    "properties": {
+    "OBJECTID":276,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365777228136,48.422322553816 ]
+    },
+    "properties": {
+    "OBJECTID":277,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365768682351,48.4223393956195 ]
+    },
+    "properties": {
+    "OBJECTID":278,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365158503174,48.4227994597021 ]
+    },
+    "properties": {
+    "OBJECTID":279,
+    "STYLE":"10 CUSTOM",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365555765731,48.423128756848 ]
+    },
+    "properties": {
+    "OBJECTID":280,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365541996938,48.4231472948736 ]
+    },
+    "properties": {
+    "OBJECTID":281,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364743726672,48.423664028029 ]
+    },
+    "properties": {
+    "OBJECTID":282,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365427626065,48.4236298987774 ]
+    },
+    "properties": {
+    "OBJECTID":283,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36549516892,48.4233928400531 ]
+    },
+    "properties": {
+    "OBJECTID":284,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363017754775,48.4236051562572 ]
+    },
+    "properties": {
+    "OBJECTID":285,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362984305683,48.4236025933476 ]
+    },
+    "properties": {
+    "OBJECTID":286,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364178096532,48.4237326120615 ]
+    },
+    "properties": {
+    "OBJECTID":287,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364144647297,48.4237300494826 ]
+    },
+    "properties": {
+    "OBJECTID":288,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365228211535,48.4238495886823 ]
+    },
+    "properties": {
+    "OBJECTID":289,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365172063866,48.4238461375655 ]
+    },
+    "properties": {
+    "OBJECTID":290,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365193306552,48.4244565580319 ]
+    },
+    "properties": {
+    "OBJECTID":291,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36518973191,48.4244721037783 ]
+    },
+    "properties": {
+    "OBJECTID":292,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36509047718,48.4245149336893 ]
+    },
+    "properties": {
+    "OBJECTID":293,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363500613077,48.4243464176903 ]
+    },
+    "properties": {
+    "OBJECTID":294,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362983655274,48.4242934492141 ]
+    },
+    "properties": {
+    "OBJECTID":295,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362954535172,48.4242905055668 ]
+    },
+    "properties": {
+    "OBJECTID":296,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36281934293,48.4244356639247 ]
+    },
+    "properties": {
+    "OBJECTID":297,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362869823281,48.4244411789929 ]
+    },
+    "properties": {
+    "OBJECTID":298,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362781788113,48.4244325182937 ]
+    },
+    "properties": {
+    "OBJECTID":299,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363734528127,48.4245192724447 ]
+    },
+    "properties": {
+    "OBJECTID":300,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36374014155,48.4245254983369 ]
+    },
+    "properties": {
+    "OBJECTID":301,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363755563392,48.4245280109469 ]
+    },
+    "properties": {
+    "OBJECTID":302,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363750684775,48.4245190621696 ]
+    },
+    "properties": {
+    "OBJECTID":303,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363762265807,48.4245231883018 ]
+    },
+    "properties": {
+    "OBJECTID":304,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363771443154,48.424527640505 ]
+    },
+    "properties": {
+    "OBJECTID":305,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363958226325,48.424540980598 ]
+    },
+    "properties": {
+    "OBJECTID":306,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364072771208,48.4245675965447 ]
+    },
+    "properties": {
+    "OBJECTID":307,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36395979103,48.424548850357 ]
+    },
+    "properties": {
+    "OBJECTID":308,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364343028244,48.4245996053866 ]
+    },
+    "properties": {
+    "OBJECTID":309,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364862908956,48.4246603119736 ]
+    },
+    "properties": {
+    "OBJECTID":310,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364695984353,48.424642078361 ]
+    },
+    "properties": {
+    "OBJECTID":311,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362017512479,48.4276880807154 ]
+    },
+    "properties": {
+    "OBJECTID":312,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358067495107,48.4275461353364 ]
+    },
+    "properties": {
+    "OBJECTID":313,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358084579155,48.427575791532 ]
+    },
+    "properties": {
+    "OBJECTID":314,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358070499757,48.4272547238011 ]
+    },
+    "properties": {
+    "OBJECTID":315,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358089849315,48.4272565016063 ]
+    },
+    "properties": {
+    "OBJECTID":316,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358276530803,48.4272821744768 ]
+    },
+    "properties": {
+    "OBJECTID":317,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360718422279,48.4275499431159 ]
+    },
+    "properties": {
+    "OBJECTID":318,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360749280806,48.4275513111361 ]
+    },
+    "properties": {
+    "OBJECTID":319,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361480956103,48.4275641302114 ]
+    },
+    "properties": {
+    "OBJECTID":320,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361952850928,48.4271067296848 ]
+    },
+    "properties": {
+    "OBJECTID":321,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361952733542,48.4270902015625 ]
+    },
+    "properties": {
+    "OBJECTID":322,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361636106222,48.4268006715895 ]
+    },
+    "properties": {
+    "OBJECTID":323,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361642596847,48.4267918381789 ]
+    },
+    "properties": {
+    "OBJECTID":324,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36110646524,48.4268811338506 ]
+    },
+    "properties": {
+    "OBJECTID":325,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36027785917,48.426794276137 ]
+    },
+    "properties": {
+    "OBJECTID":326,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361826735704,48.4260866227931 ]
+    },
+    "properties": {
+    "OBJECTID":327,
+    "STYLE":"12 CIRCLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361641099797,48.4260880774601 ]
+    },
+    "properties": {
+    "OBJECTID":328,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36160768609,48.4260844415752 ]
+    },
+    "properties": {
+    "OBJECTID":329,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362047402997,48.4267593144658 ]
+    },
+    "properties": {
+    "OBJECTID":330,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362174433191,48.4263916807124 ]
+    },
+    "properties": {
+    "OBJECTID":331,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362178670825,48.4263749292762 ]
+    },
+    "properties": {
+    "OBJECTID":332,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362220189276,48.4261639461834 ]
+    },
+    "properties": {
+    "OBJECTID":333,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360801461687,48.4257192563742 ]
+    },
+    "properties": {
+    "OBJECTID":334,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360774099202,48.4257162778391 ]
+    },
+    "properties": {
+    "OBJECTID":335,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36025092096,48.4256784012906 ]
+    },
+    "properties": {
+    "OBJECTID":336,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360234813236,48.4256754558051 ]
+    },
+    "properties": {
+    "OBJECTID":337,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35962300964,48.4256344797998 ]
+    },
+    "properties": {
+    "OBJECTID":338,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359602897822,48.4256280398651 ]
+    },
+    "properties": {
+    "OBJECTID":339,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358784824756,48.4255319658042 ]
+    },
+    "properties": {
+    "OBJECTID":340,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358806371321,48.4255300606978 ]
+    },
+    "properties": {
+    "OBJECTID":341,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358286232473,48.4254856703615 ]
+    },
+    "properties": {
+    "OBJECTID":342,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.357365793593,48.4253531744643 ]
+    },
+    "properties": {
+    "OBJECTID":343,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.357344452587,48.4253431393685 ]
+    },
+    "properties": {
+    "OBJECTID":344,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35718530102,48.4253475170991 ]
+    },
+    "properties": {
+    "OBJECTID":345,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.357043996943,48.4253385054483 ]
+    },
+    "properties": {
+    "OBJECTID":346,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358745317309,48.4257338232823 ]
+    },
+    "properties": {
+    "OBJECTID":347,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35798861043,48.4256580158874 ]
+    },
+    "properties": {
+    "OBJECTID":348,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35681840251,48.4255290684168 ]
+    },
+    "properties": {
+    "OBJECTID":349,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.35963424512,48.4258378552516 ]
+    },
+    "properties": {
+    "OBJECTID":350,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359526998296,48.4258228418671 ]
+    },
+    "properties": {
+    "OBJECTID":351,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359756957185,48.4258494258378 ]
+    },
+    "properties": {
+    "OBJECTID":352,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360212977018,48.4259000738608 ]
+    },
+    "properties": {
+    "OBJECTID":353,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.357409829882,48.4264663463004 ]
+    },
+    "properties": {
+    "OBJECTID":354,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.358876129851,48.426718312745 ]
+    },
+    "properties": {
+    "OBJECTID":355,
+    "STYLE":"4 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362163485547,48.4303748936634 ]
+    },
+    "properties": {
+    "OBJECTID":356,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365353710928,48.4283122572432 ]
+    },
+    "properties": {
+    "OBJECTID":357,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365369262451,48.4283072301146 ]
+    },
+    "properties": {
+    "OBJECTID":358,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365383545467,48.428299302915 ]
+    },
+    "properties": {
+    "OBJECTID":359,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365324414647,48.4283131805434 ]
+    },
+    "properties": {
+    "OBJECTID":360,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365305063301,48.4283099230801 ]
+    },
+    "properties": {
+    "OBJECTID":361,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365629299726,48.428221172407 ]
+    },
+    "properties": {
+    "OBJECTID":362,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365611059497,48.4282186581837 ]
+    },
+    "properties": {
+    "OBJECTID":363,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365592258491,48.4282150436575 ]
+    },
+    "properties": {
+    "OBJECTID":364,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365622628561,48.4282149472636 ]
+    },
+    "properties": {
+    "OBJECTID":365,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365604383061,48.4282116980362 ]
+    },
+    "properties": {
+    "OBJECTID":366,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365583371925,48.4282080905234 ]
+    },
+    "properties": {
+    "OBJECTID":367,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366717203618,48.428280368832 ]
+    },
+    "properties": {
+    "OBJECTID":368,
+    "STYLE":"4 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367836040418,48.4285817831141 ]
+    },
+    "properties": {
+    "OBJECTID":369,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367827490547,48.4285754561403 ]
+    },
+    "properties": {
+    "OBJECTID":370,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367822958546,48.428582086703 ]
+    },
+    "properties": {
+    "OBJECTID":371,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367814539792,48.4285757584098 ]
+    },
+    "properties": {
+    "OBJECTID":372,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367809614515,48.4285822156944 ]
+    },
+    "properties": {
+    "OBJECTID":373,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367800671284,48.4285758899753 ]
+    },
+    "properties": {
+    "OBJECTID":374,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367795094263,48.4285826975086 ]
+    },
+    "properties": {
+    "OBJECTID":375,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362593464834,48.4245382966071 ]
+    },
+    "properties": {
+    "OBJECTID":376,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36252245694,48.4248230050519 ]
+    },
+    "properties": {
+    "OBJECTID":377,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362686787921,48.4241515560833 ]
+    },
+    "properties": {
+    "OBJECTID":378,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362474005126,48.4249972545562 ]
+    },
+    "properties": {
+    "OBJECTID":379,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362738117478,48.4239967109973 ]
+    },
+    "properties": {
+    "OBJECTID":380,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362904695059,48.4232943618447 ]
+    },
+    "properties": {
+    "OBJECTID":381,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362939608643,48.4231681846191 ]
+    },
+    "properties": {
+    "OBJECTID":382,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362837398122,48.4223305104837 ]
+    },
+    "properties": {
+    "OBJECTID":383,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362444234454,48.4238765102675 ]
+    },
+    "properties": {
+    "OBJECTID":384,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36238476992,48.424021140814 ]
+    },
+    "properties": {
+    "OBJECTID":385,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362141592517,48.4241818447052 ]
+    },
+    "properties": {
+    "OBJECTID":386,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362116088413,48.4241783559435 ]
+    },
+    "properties": {
+    "OBJECTID":387,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361600486207,48.4241370718798 ]
+    },
+    "properties": {
+    "OBJECTID":388,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360926783443,48.4240692355 ]
+    },
+    "properties": {
+    "OBJECTID":389,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360716445665,48.4240460192523 ]
+    },
+    "properties": {
+    "OBJECTID":390,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360543501155,48.4240243463563 ]
+    },
+    "properties": {
+    "OBJECTID":391,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359941638554,48.4241280867462 ]
+    },
+    "properties": {
+    "OBJECTID":392,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359923947123,48.4241259018794 ]
+    },
+    "properties": {
+    "OBJECTID":393,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360844644509,48.4242214070316 ]
+    },
+    "properties": {
+    "OBJECTID":394,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361386989931,48.4242792443355 ]
+    },
+    "properties": {
+    "OBJECTID":395,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362191483233,48.4243680130156 ]
+    },
+    "properties": {
+    "OBJECTID":396,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36227597483,48.4244339863374 ]
+    },
+    "properties": {
+    "OBJECTID":397,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362169167832,48.424928249782 ]
+    },
+    "properties": {
+    "OBJECTID":398,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362198419671,48.424833290839 ]
+    },
+    "properties": {
+    "OBJECTID":399,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361395702178,48.4249607013799 ]
+    },
+    "properties": {
+    "OBJECTID":400,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.359805393132,48.4247916977514 ]
+    },
+    "properties": {
+    "OBJECTID":401,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360149549545,48.4247781791358 ]
+    },
+    "properties": {
+    "OBJECTID":402,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.360075086883,48.4248177754815 ]
+    },
+    "properties": {
+    "OBJECTID":403,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361742621456,48.4226436642793 ]
+    },
+    "properties": {
+    "OBJECTID":404,
+    "STYLE":"4 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367203206438,48.4287173624809 ]
+    },
+    "properties": {
+    "OBJECTID":405,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367214584954,48.4291621888566 ]
+    },
+    "properties": {
+    "OBJECTID":406,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367233710632,48.4296639322392 ]
+    },
+    "properties": {
+    "OBJECTID":407,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368236301912,48.4301417253637 ]
+    },
+    "properties": {
+    "OBJECTID":408,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368308126837,48.4301389361707 ]
+    },
+    "properties": {
+    "OBJECTID":409,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368309566813,48.4302565473046 ]
+    },
+    "properties": {
+    "OBJECTID":410,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368027840629,48.4302760258196 ]
+    },
+    "properties": {
+    "OBJECTID":411,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367289608992,48.4305724352981 ]
+    },
+    "properties": {
+    "OBJECTID":412,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367287826175,48.4308739852368 ]
+    },
+    "properties": {
+    "OBJECTID":413,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367288925485,48.4308920423399 ]
+    },
+    "properties": {
+    "OBJECTID":414,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366624519561,48.4293134351604 ]
+    },
+    "properties": {
+    "OBJECTID":415,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366119261507,48.4292386153441 ]
+    },
+    "properties": {
+    "OBJECTID":416,
+    "STYLE":"5 SPIRAL",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365660895746,48.4291127895782 ]
+    },
+    "properties": {
+    "OBJECTID":417,
+    "STYLE":"4 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365661616446,48.4294438753968 ]
+    },
+    "properties": {
+    "OBJECTID":418,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365751232237,48.4294446938798 ]
+    },
+    "properties": {
+    "OBJECTID":419,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366905643328,48.4291295290066 ]
+    },
+    "properties": {
+    "OBJECTID":420,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366882619807,48.4290802471576 ]
+    },
+    "properties": {
+    "OBJECTID":421,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36688784429,48.4290687580851 ]
+    },
+    "properties": {
+    "OBJECTID":422,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36689572232,48.4290572605586 ]
+    },
+    "properties": {
+    "OBJECTID":423,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366188185144,48.4294460730645 ]
+    },
+    "properties": {
+    "OBJECTID":424,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366831109094,48.4294392016588 ]
+    },
+    "properties": {
+    "OBJECTID":425,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366827808724,48.4294455142677 ]
+    },
+    "properties": {
+    "OBJECTID":426,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366923042235,48.4295381859487 ]
+    },
+    "properties": {
+    "OBJECTID":427,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366035259132,48.4301505207373 ]
+    },
+    "properties": {
+    "OBJECTID":428,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364654494474,48.4305296929354 ]
+    },
+    "properties": {
+    "OBJECTID":429,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364627375686,48.4295876215558 ]
+    },
+    "properties": {
+    "OBJECTID":430,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364628914246,48.4298026292149 ]
+    },
+    "properties": {
+    "OBJECTID":431,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364616727612,48.4292618679984 ]
+    },
+    "properties": {
+    "OBJECTID":432,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364616802458,48.4292723370661 ]
+    },
+    "properties": {
+    "OBJECTID":433,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364280769968,48.4282877425935 ]
+    },
+    "properties": {
+    "OBJECTID":434,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364208867206,48.4285272786545 ]
+    },
+    "properties": {
+    "OBJECTID":435,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364192153582,48.4285185868345 ]
+    },
+    "properties": {
+    "OBJECTID":436,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363352589498,48.4286613317803 ]
+    },
+    "properties": {
+    "OBJECTID":437,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363729460601,48.4286561713138 ]
+    },
+    "properties": {
+    "OBJECTID":438,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364288102331,48.4292908330292 ]
+    },
+    "properties": {
+    "OBJECTID":439,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364267831657,48.4292838186317 ]
+    },
+    "properties": {
+    "OBJECTID":440,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363323763291,48.429687425146 ]
+    },
+    "properties": {
+    "OBJECTID":441,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363324844102,48.4298391217971 ]
+    },
+    "properties": {
+    "OBJECTID":442,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36335593601,48.4299661847634 ]
+    },
+    "properties": {
+    "OBJECTID":443,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363350086684,48.4300866707964 ]
+    },
+    "properties": {
+    "OBJECTID":444,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364295998494,48.4303534724518 ]
+    },
+    "properties": {
+    "OBJECTID":445,
+    "STYLE":"4 SPIRALS",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364341190171,48.4309051445908 ]
+    },
+    "properties": {
+    "OBJECTID":446,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356475455471,48.4235757900521 ]
+    },
+    "properties": {
+    "OBJECTID":447,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356350320373,48.4235604846918 ]
+    },
+    "properties": {
+    "OBJECTID":448,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3711406103,48.4209161800403 ]
+    },
+    "properties": {
+    "OBJECTID":449,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371128905954,48.4209110429191 ]
+    },
+    "properties": {
+    "OBJECTID":450,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371235302126,48.4209357277747 ]
+    },
+    "properties": {
+    "OBJECTID":451,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371245271612,48.4209398286763 ]
+    },
+    "properties": {
+    "OBJECTID":452,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371263945796,48.4209447283241 ]
+    },
+    "properties": {
+    "OBJECTID":453,
+    "STYLE":"V",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371120425309,48.4207758432805 ]
+    },
+    "properties": {
+    "OBJECTID":454,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37197656636,48.421117034374 ]
+    },
+    "properties": {
+    "OBJECTID":455,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371959134991,48.4211118834044 ]
+    },
+    "properties": {
+    "OBJECTID":456,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37279993798,48.4211756048084 ]
+    },
+    "properties": {
+    "OBJECTID":457,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.37162835905,48.4208843738902 ]
+    },
+    "properties": {
+    "OBJECTID":458,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36835660244,48.420462251174 ]
+    },
+    "properties": {
+    "OBJECTID":459,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368128731674,48.4203528171836 ]
+    },
+    "properties": {
+    "OBJECTID":460,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367285065689,48.4199483696237 ]
+    },
+    "properties": {
+    "OBJECTID":461,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366614887046,48.4210279963005 ]
+    },
+    "properties": {
+    "OBJECTID":462,
+    "STYLE":"3 CUSTOM STYLE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366659590184,48.4209976126206 ]
+    },
+    "properties": {
+    "OBJECTID":463,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366276732985,48.421450687673 ]
+    },
+    "properties": {
+    "OBJECTID":464,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366265451425,48.4214633332294 ]
+    },
+    "properties": {
+    "OBJECTID":465,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.36630825764,48.4215096778886 ]
+    },
+    "properties": {
+    "OBJECTID":466,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365914351001,48.4213373627285 ]
+    },
+    "properties": {
+    "OBJECTID":467,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365889850032,48.4213149122729 ]
+    },
+    "properties": {
+    "OBJECTID":468,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364659260937,48.4211320289092 ]
+    },
+    "properties": {
+    "OBJECTID":469,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364392812997,48.4212091832086 ]
+    },
+    "properties": {
+    "OBJECTID":470,
+    "STYLE":"CUSTOM",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364374523774,48.4212037982067 ]
+    },
+    "properties": {
+    "OBJECTID":471,
+    "STYLE":"CUSTOM",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364257348991,48.4211608579388 ]
+    },
+    "properties": {
+    "OBJECTID":472,
+    "STYLE":"CUSTOM",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364244263988,48.4211528978092 ]
+    },
+    "properties": {
+    "OBJECTID":473,
+    "STYLE":"CUSTOM",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371969013333,48.4187240144041 ]
+    },
+    "properties": {
+    "OBJECTID":474,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371962066954,48.4187378078473 ]
+    },
+    "properties": {
+    "OBJECTID":475,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.370713173181,48.4180711680367 ]
+    },
+    "properties": {
+    "OBJECTID":476,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.370724584016,48.4178925823042 ]
+    },
+    "properties": {
+    "OBJECTID":477,
+    "STYLE":"7 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.371098219181,48.4180204368044 ]
+    },
+    "properties": {
+    "OBJECTID":478,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.370576519741,48.418077723326 ]
+    },
+    "properties": {
+    "OBJECTID":479,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368715510745,48.4184531583013 ]
+    },
+    "properties": {
+    "OBJECTID":480,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.363840342546,48.4278895637257 ]
+    },
+    "properties": {
+    "OBJECTID":481,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366950548568,48.4300858706079 ]
+    },
+    "properties": {
+    "OBJECTID":482,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364321749701,48.4299598425895 ]
+    },
+    "properties": {
+    "OBJECTID":483,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.364322462263,48.4300664001502 ]
+    },
+    "properties": {
+    "OBJECTID":484,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368955078266,48.4195658200669 ]
+    },
+    "properties": {
+    "OBJECTID":485,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368961535602,48.4196369682326 ]
+    },
+    "properties": {
+    "OBJECTID":486,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.353750320964,48.4272873804043 ]
+    },
+    "properties": {
+    "OBJECTID":487,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354725385181,48.4269082365502 ]
+    },
+    "properties": {
+    "OBJECTID":488,
+    "STYLE":"3 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354791176067,48.4269178553423 ]
+    },
+    "properties": {
+    "OBJECTID":489,
+    "STYLE":"4 TRIANGLES",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.354763425154,48.4269249491959 ]
+    },
+    "properties": {
+    "OBJECTID":490,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.356060737015,48.4264404407974 ]
+    },
+    "properties": {
+    "OBJECTID":491,
+    "STYLE":"SNAKE",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.3558925298,48.4263092431524 ]
+    },
+    "properties": {
+    "OBJECTID":492,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361982383979,48.4256821663299 ]
+    },
+    "properties": {
+    "OBJECTID":493,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.361964778123,48.4257714847005 ]
+    },
+    "properties": {
+    "OBJECTID":494,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.362032221355,48.4253724449889 ]
+    },
+    "properties": {
+    "OBJECTID":495,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369477134792,48.4279103499646 ]
+    },
+    "properties": {
+    "OBJECTID":496,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369492567628,48.4278684059798 ]
+    },
+    "properties": {
+    "OBJECTID":497,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369482370689,48.4278432068504 ]
+    },
+    "properties": {
+    "OBJECTID":498,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.369252433543,48.4277750216807 ]
+    },
+    "properties": {
+    "OBJECTID":499,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368726545656,48.4277158102605 ]
+    },
+    "properties": {
+    "OBJECTID":500,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368630973111,48.4277050478374 ]
+    },
+    "properties": {
+    "OBJECTID":501,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368486949814,48.4276712319365 ]
+    },
+    "properties": {
+    "OBJECTID":502,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368523817563,48.4275764949912 ]
+    },
+    "properties": {
+    "OBJECTID":503,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368531305901,48.4275732574361 ]
+    },
+    "properties": {
+    "OBJECTID":504,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.368054846642,48.427639050721 ]
+    },
+    "properties": {
+    "OBJECTID":505,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367720892339,48.4276029845827 ]
+    },
+    "properties": {
+    "OBJECTID":506,
+    "STYLE":"",
+    "TYPE":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.365142575369,48.4271738242069 ]
+    },
+    "properties": {
+    "OBJECTID":507,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366342216503,48.4265112930476 ]
+    },
+    "properties": {
+    "OBJECTID":508,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366368261269,48.4264029049495 ]
+    },
+    "properties": {
+    "OBJECTID":509,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366043406164,48.4264872496932 ]
+    },
+    "properties": {
+    "OBJECTID":510,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.366103341374,48.4263668514814 ]
+    },
+    "properties": {
+    "OBJECTID":511,
+    "STYLE":"",
+    "TYPE":"Bike Rack"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.367334715966,48.4257269929461 ]
+    },
+    "properties": {
+    "OBJECTID":512,
+    "STYLE":"U",
+    "TYPE":"Bike Rack"
+    }
+  }
+]
+}
